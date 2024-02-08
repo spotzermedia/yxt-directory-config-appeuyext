@@ -1,0 +1,7 @@
+{
+  "$id": "ce_topcategory",
+  "$schema": "https://schema.yext.com/config/km/entity-type/v2",
+  "description": "",
+  "displayName": "Top Category",
+  "pluralDisplayName": "Top Categories"
+}

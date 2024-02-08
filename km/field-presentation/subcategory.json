@@ -1,0 +1,47 @@
+{
+  "$id": "ce_subcategory",
+  "$schema": "https://schema.yext.com/config/km/field-presentation/v1",
+  "entityType": "ce_subcategory",
+  "displayName": "City",
+  "presentationEntries": [
+    {
+      "displayName": "Core",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "name"
+        },
+        {
+          "id": "entityId"
+        },
+        {
+          "id": "slug"
+        },
+        {
+          "id": "description"
+        },
+        {
+          "id": "richTextDescription"
+        }
+      ]
+    },
+    {
+      "displayName": "Directory Manager",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "dm_directoryParents"
+        },
+        {
+          "id": "dm_directoryChildren"
+        },
+        {
+          "id": "dm_directoryChildrenCount"
+        },
+        {
+          "id": "dm_directoryManagerId"
+        }
+      ]
+    }
+  ]
+}

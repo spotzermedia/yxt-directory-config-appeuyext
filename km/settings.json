@@ -1,0 +1,20 @@
+{
+  "$schema": "https://schema.yext.com/config/km/settings/v1",
+  "entityTypeSettings": [
+    {
+      "entityType": "ce_subcategory",
+      "defaultFieldEligibilityGroup": "ce_subcategory.default",
+      "disabled": false
+    },
+    {
+      "entityType": "ce_topcategory",
+      "defaultFieldEligibilityGroup": "ce_topcategory.default",
+      "disabled": false
+    },
+    {
+      "entityType": "ce_root",
+      "defaultFieldEligibilityGroup": "ce_root.default",
+      "disabled": false
+    }
+  ]
+}
