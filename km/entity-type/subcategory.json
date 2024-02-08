@@ -1,7 +1,0 @@
-{
-  "$id": "ce_subcategory",
-  "$schema": "https://schema.yext.com/config/km/entity-type/v2",
-  "description": "",
-  "displayName": "Subcategory",
-  "pluralDisplayName": "Subcategories"
-}

@@ -2,13 +2,13 @@
   "$schema": "https://schema.yext.com/config/km/settings/v1",
   "entityTypeSettings": [
     {
-      "entityType": "ce_subcategory",
-      "defaultFieldEligibilityGroup": "ce_subcategory.default",
+      "entityType": "ce_city",
+      "defaultFieldEligibilityGroup": "ce_city.default",
       "disabled": false
     },
     {
-      "entityType": "ce_topcategory",
-      "defaultFieldEligibilityGroup": "ce_topcategory.default",
+      "entityType": "ce_state",
+      "defaultFieldEligibilityGroup": "ce_state.default",
       "disabled": false
     },
     {

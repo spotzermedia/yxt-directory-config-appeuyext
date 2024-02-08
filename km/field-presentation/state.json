@@ -1,8 +1,8 @@
 {
-  "$id": "ce_subcategory",
+  "$id": "ce_state",
   "$schema": "https://schema.yext.com/config/km/field-presentation/v1",
-  "entityType": "ce_subcategory",
-  "displayName": "City",
+  "entityType": "ce_state",
+  "displayName": "State",
   "presentationEntries": [
     {
       "displayName": "Core",
@@ -21,7 +21,19 @@
           "id": "description"
         },
         {
-          "id": "richTextDescription"
+          "id": "richTextDescriptionV2"
+        },
+        {
+          "id": "c_addressCountryAbbreviation"
+        },
+        {
+          "id": "c_addressCountryDisplayName"
+        },
+        {
+          "id": "c_addressRegionAbbreviation"
+        },
+        {
+          "id": "c_addressRegionDisplayName"
         }
       ]
     },
